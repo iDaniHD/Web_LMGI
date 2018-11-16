@@ -1,0 +1,53 @@
+<html>
+<head>
+	<title>Mi examen </title>
+	<meta charset="UTF-8"/>
+	<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+		<div id="cabecera">
+			<div class="titulo">
+				<h1 style="text-align:center">ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN RED</h1>
+			</div>
+			<div class="navegacion">
+				<ul>
+					<li><a href="#">Acerca de</a></li>
+					<li><a href="#">Módulos</a></li>
+					<li><a href="#">Matriculación</a></li>
+					<li><a href="#">Dónde estudiar</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="contenido">
+			<div id="principal">
+				<div class="articulo">
+					<h2 style="text-align:center"><ins>Competencia general</ins></h2>
+					<p></br>
+						Configurar, administrar y mantener sistemas informáticos , garantizando 
+						la funcionalidad, la integridad de los recursos y servicios del sistema, 
+						con la calidad exigida y cumpliendo la reglamentación vigente.
+					</p>
+				</div>
+				<div class="articulo">
+					<h2 style="text-align:center"><ins>Objetivos Generales</ins></h2> </br>
+						<ol start="5">
+							<li>Analizar la estructura del software de base, comparando las características y prestaciones de sistemas libres y propietarios, para administrar sistemas operativos de servidor.</li>
+							<li>Instalar y configurar el software de base, siguiendo documentación técnica y especificaciones dadas, para administrar sistemas operativos de servidor.</li>
+							<li>Configurar dispositivos hardware, analizando sus características funcionales, para optimizar el rendimiento del sistema.</li>
+						</ol>
+					<p></br>
+						Analizar la estructura del software de base, comparando las características y prestaciones de sistemas libres y propietarios, para administrar sistemas operativos de servidor.
+						Instalar y configurar el software de base, siguiendo documentación técnica y especificaciones dadas, para administrar sistemas operativos de servidor.
+						Configurar dispositivos hardware, analizando sus características funcionales, para optimizar el rendimiento del sistema.
+					</p>
+				</div>
+ 
+
+		</div>
+		<div id="pie">
+			<p> &copy Daniel Ibáñez Pagola ASIR 1A 13/11/18  </p>
+		</div>
+
+	
+</body>
+</html>
